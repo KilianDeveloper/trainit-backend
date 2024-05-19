@@ -1,0 +1,1 @@
+UPDATE `account` SET `personal_records` = REPLACE(REPLACE(REPLACE(`personal_records`, '},', ',"unit":"kg"},'), '"weight":', '"value":'), '}]', ',"unit":"kg"}]');

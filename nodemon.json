@@ -1,0 +1,7 @@
+{
+    "verbose": true,
+    "ignore": [],
+    "watch": ["src/"],
+    "ext": "js,json,ts",
+    "legacyWatch": true
+}

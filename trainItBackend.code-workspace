@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"type": "shell",
+				"command": "cd api;npm run build",
+				"group": "build",
+				"problemMatcher": [],
+				"label": "build-backend",
+				"detail": "tsc -p ."
+			}
+		]
+	},
+	"settings": {
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit"
+		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Docker: Attach to Node",
+				"type": "node",
+				"restart":true,
+				"request":"attach",
+				"port":9229,
+				"address":"localhost",
+				"remoteRoot": "/srv/app",
+				"localRoot": "${workspaceFolder}",
+				"outFiles": ["/srv/app/build/**/*.js"],
+				"sourceMaps": true,
+				"internalConsoleOptions": "neverOpen",
+				"resolveSourceMapLocations":[
+					"${workspaceFolder}/build/**/*.js",
+					"!**/node_modules/**",
+				],
+				"trace": true,
+			}
+]
+	}
+}

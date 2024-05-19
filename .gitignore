@@ -1,0 +1,9 @@
+.vscode/
+node_modules/
+.env
+build
+logs/application_logs.log
+src/certificates/
+logs/
+data/
+.env.dev

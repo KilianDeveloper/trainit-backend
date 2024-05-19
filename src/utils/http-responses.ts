@@ -1,0 +1,13 @@
+export const unexpectedError = "an unexpected error occured"
+export const badRequest = "bad request"
+export const maximumServersReached = "maximum amount of servers reached"
+export const wrongAuthenticationMethod = "wrong authentication method"
+export const invalidToken = "invalid token given"
+export const tokenExpired = "token expired"
+export const emailNotVerified = "account not verified"
+export const emailNotExisting = "account doesn't exist"
+export const accountAlreadExisting = "account already existing"
+
+export const success = "true"
+export const forbidden = "permission denied"
+export const wrongToken = "wrong token"

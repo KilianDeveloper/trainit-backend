@@ -1,0 +1,22 @@
+FROM node:18-alpine
+WORKDIR /srv/app
+COPY package*.json ./
+RUN npm install
+RUN mkdir src
+COPY src/* ./src/
+COPY migration/* ./migration/
+COPY nodemon_2.json ./
+COPY nodemon.json ./
+COPY tsconfig.json ./
+COPY .env.dev ./.env
+COPY .eslintrc.js ./
+COPY fonts/arial.ttf ./
+RUN mkdir -p /usr/share/fonts/truetype/
+RUN install -m644 arial.ttf /usr/share/fonts/truetype/
+RUN rm ./arial.ttf
+COPY fonts/abuget.ttf ./
+RUN mkdir -p /usr/share/fonts/truetype/
+RUN install -m644 abuget.ttf /usr/share/fonts/truetype/
+RUN rm ./abuget.ttf
+RUN mkdir data
+CMD ["npm", "run", "watch"]

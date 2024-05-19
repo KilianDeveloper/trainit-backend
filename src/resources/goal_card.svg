@@ -1,0 +1,38 @@
+<svg width="800" height="545" viewBox="0 0 800 545" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="800" height="544.403" rx="20" fill="url(#paint0_linear_2202_1999)"/>
+<mask id="mask0_2202_1999" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="55" y="57" width="63" height="64">
+<ellipse cx="86.3953" cy="88.5426" rx="31.3953" ry="31.5426" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2202_1999)">
+<rect x="55" y="57" width="62.7907" height="63.0853" fill="url(#pattern0)"/>
+</g>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="50" letter-spacing="0em"><tspan x="140.354" y="106.583">Goal Reached</tspan></text>
+<text transform="translate(634 70)" fill="#231702" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="0" y="27.4004">Keyplan</tspan></text>
+<path d="M572.092 70.0194C572.092 64.8995 576.242 60.749 581.362 60.749H608.565C613.685 60.749 617.835 64.8995 617.835 70.0194H572.092Z" fill="#8E7C5C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M617.835 70.0195L572.092 70.0195L572.092 103.946C572.092 105.897 573.666 107.479 575.609 107.479H603.542L617.803 93.0981C617.811 93.0996 617.82 93.1004 617.828 93.1007L617.832 93.1008L617.835 93.1009V93.0659L617.835 93.0656V70.0195ZM603.226 85.1738C604.142 86.0938 605.626 86.0938 606.541 85.1738L606.757 84.9568C607.673 84.0368 607.673 82.5451 606.757 81.6251L598.685 73.5123C597.77 72.5923 596.285 72.5923 595.37 73.5123L595.154 73.7293C594.239 74.6493 594.239 76.141 595.154 77.061L603.226 85.1738ZM586.347 90.5659L596.763 80.0974L600.205 83.5573L589.789 94.0259L586.347 90.5659ZM605.677 79.1198C606.256 79.7023 607.196 79.7023 607.775 79.1198C608.355 78.5374 608.355 77.5931 607.775 77.0107L603.177 72.389C602.597 71.8065 601.658 71.8065 601.078 72.3889C600.499 72.9714 600.499 73.9156 601.078 74.4981L605.677 79.1198ZM585.354 101.654C584.774 102.236 583.834 102.236 583.255 101.654L578.656 97.0321C578.077 96.4497 578.077 95.5054 578.656 94.923C579.236 94.3405 580.175 94.3405 580.755 94.923L585.354 99.5447C585.933 100.127 585.933 101.071 585.354 101.654ZM587.867 100.611C588.782 101.531 590.266 101.531 591.182 100.611L591.398 100.394C592.313 99.4737 592.313 97.9821 591.398 97.0621L583.325 88.9493C582.41 88.0293 580.926 88.0293 580.01 88.9493L579.794 89.1663C578.879 90.0863 578.879 91.5779 579.794 92.498L587.867 100.611Z" fill="#8E7C5C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M617.832 94.2505C616.27 95.0731 614.803 96.1442 613.49 97.4638L603.525 107.478C603.526 99.5773 609.931 93.1006 617.832 93.1006V94.2505Z" fill="#8E7C5C"/>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="440" y="314.4">VALUE</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="439.529" y="235.348">GOALNAME</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="439.529" y="201.323">goal name: </tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="65.1094" y="235.323">USERNAME</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="65.1094" y="201.323">username: &#10;</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="65" y="309.74">STARTVALUE</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="65" y="275.74">start at: &#10;</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="65" y="384.74">DURATION</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="65" y="350.74">duration: &#10;</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0em"><tspan x="65.1094" y="466.636">DATE</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="65.1094" y="432.636">reached on:&#10;</tspan></text>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Abuget" font-size="56" font-weight="500" letter-spacing="0em"><tspan x="442" y="460.25">SIGN</tspan></text>
+<line x1="425.58" y1="459.789" x2="730.231" y2="459.789" stroke="black" stroke-dasharray="2 2"/>
+<text fill="#231702" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="441.859" y="276.091">goal value:</tspan></text>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2202_1999" transform="matrix(0.00145187 0 0 0.00144509 -0.0604203 0)"/>
+</pattern>
+<linearGradient id="paint0_linear_2202_1999" x1="41.8605" y1="31.5426" x2="754.421" y2="513.264" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9E1B6"/>
+<stop offset="1" stop-color="#F4B036"/>
+</linearGradient>
+<image id="image0_2202_1999" width="772" height="692" xlink:href="data:image/png;base64,IMAGEDATA"/>
+</defs>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "es2021",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    /* Modules */
+    "module": "commonjs",
+    "rootDir": "./src",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "paths": {
+      "*": [
+          "node_modules/*"
+      ]
+    },
+    /* Emit */
+    "sourceMap": true,
+    "outDir": "./build",
+    /* Interop Constraints */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "noImplicitAny": true,
+    /* Completeness */
+    "skipLibCheck": true,
+  },
+}

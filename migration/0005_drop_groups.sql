@@ -1,0 +1,1 @@
+DROP TABLE `training_invitation`, `group_invitation_tokens`, `group_has_account`, `group`;

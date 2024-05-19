@@ -1,0 +1,1 @@
+ALTER TABLE friendship ADD COLUMN 1_follows_2_accepted TINYINT NOT NULL DEFAULT 0, ADD COLUMN 2_follows_1_accepted TINYINT NOT NULL DEFAULT 0;
